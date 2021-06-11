@@ -71,10 +71,6 @@ theme = "#1b1c1d"
   logoText = "rithvik$ cd /home/"
   logoHomeLink = "/"
 
-  [[params.social]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
 
   [[params.social]]
     name = "twitter"
