@@ -76,20 +76,21 @@ theme = "#1b1c1d"
   url = "https://twitter.com/"
 
   [[params.social]]
-  name = "email"
-  url = "mailto:nobody@example.com"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/rith_vik_7"
 
   [[params.social]]
-  name = "github"
-  url = "https://github.com/"
+    name = "email"
+    url  = "mailto:vrithvik7@gmail.com"
 
   [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/"
+    name = "github"
+    url  = "https://github.com/rith-vik-7"
 
   [[params.social]]
-  name = "stackoverflow"
-  url = "https://www.stackoverflow.com/"
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/rithvik-vukka-741202182/"
 
 [languages.en]
 subtitle = "Hello Friend NG Theme"
