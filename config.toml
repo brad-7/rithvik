@@ -48,7 +48,7 @@ dateformNumTime = "2006-01-02 15:04"
 description = "Rithvik's blog"
 keywords = ""
 images = [ "" ]
-homeSubtitle = "Rithvik's blog"
+homeSubtitle = "Hello Friend NG"
 disableReadOtherPosts = false
 enableThemeToggle = false
 enableSharingButtons = true
@@ -57,8 +57,14 @@ customJS = [ ]
 justifyContent = false
 
   [params.footer]
-
-    bottomText = ["© Rithvik's Blog 2021, Powered by <a href=\"http://gohugo.io\">Hugo</a>"]
+  trademark = true
+  rss = true
+  copyright = true
+  author = true
+  topText = [ ]
+  bottomText = [
+  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+  "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 ]
 
 [params.favicon.color]
@@ -71,22 +77,25 @@ theme = "#1b1c1d"
   logoText = "rithvik$ cd /home/"
   logoHomeLink = "/"
 
+  [[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/"
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/rith_vik_7"
+  name = "email"
+  url = "mailto:nobody@example.com"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:vrithvik7@gmail.com"
+  name = "github"
+  url = "https://github.com/"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/rith-vik-7"
+  name = "linkedin"
+  url = "https://www.linkedin.com/"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/rithvik-vukka-741202182/"
+  name = "stackoverflow"
+  url = "https://www.stackoverflow.com/"
 
 [languages.en]
 subtitle = "Hello Friend NG Theme"
