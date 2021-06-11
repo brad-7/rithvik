@@ -75,7 +75,7 @@ theme = "#1b1c1d"
   name = "twitter"
   url = "https://twitter.com/"
 
-  [[params.social]]
+
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/rith_vik_7"
