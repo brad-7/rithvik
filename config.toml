@@ -57,11 +57,7 @@ customJS = [ ]
 justifyContent = false
 
   [params.footer]
-  trademark = true
-  rss = true
-  copyright = true
-  author = true
-  topText = [ ]
+
   bottomText = ["© Rithvik's Blog 2021, Powered by <a href=\"http://gohugo.io\">Hugo</a>"]
 
 [params.favicon.color]
